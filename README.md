@@ -1,6 +1,6 @@
-# MAC_ADDRESS_CHANGER
+# MACspoof
 
-MAC_ADDRESS_CHANGER changes the MAC address of the specified interface on your system.
+The above python one changes the MAC address of the specified interface on your system.
 
 ## Usage
 
