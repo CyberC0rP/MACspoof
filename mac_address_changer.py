@@ -49,5 +49,5 @@ current_mac = get_current_mac(options.interface)
 if current_mac == options.mac_address:
     print("[+] MAC address was successfully changed to " + current_mac)
 else:
-    print("[+] MAC address did not get changed")
+    print("[+] Sorry! MAC address did not get changed")
 
